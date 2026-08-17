@@ -53,7 +53,11 @@ Desenvolvido como parte do currículo prático de computação em nuvem (AWS Aca
 ### 2. Instância Amazon RDS Multi-AZ Configurada
 ![RDS Multi-AZ](./images/02-rds-architecture.png)
 
-### 3. Aplicação Funcional Persistindo Dados no MySQL
+### 3. Confirmação da Implantação Multi-AZ no Amazon RDS
+![RDS Multi-AZ](./images/02-rds-architecture-2.png)
+*Exibição dos detalhes de configuração do RDS confirmando a implantação síncrona em múltiplas Zonas de Disponibilidade (Multi-AZ: Yes).*
+
+### 4. Aplicação Funcional Persistindo Dados no MySQL
 ![Address Book App](./images/04-address-book-app.png)
 
 ---
