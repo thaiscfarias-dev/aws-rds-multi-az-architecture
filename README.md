@@ -53,10 +53,7 @@ Desenvolvido como parte do currículo prático de computação em nuvem (AWS Aca
 ### 2. Instância Amazon RDS Multi-AZ Configurada
 ![RDS Multi-AZ](./images/02-rds-architecture.png)
 
-### 3. Conexão do Web Application ao RDS
-![Web App Connection](./images/03-web-app-connection.png)
-
-### 4. Aplicação Funcional Persistindo Dados no MySQL
+### 3. Aplicação Funcional Persistindo Dados no MySQL
 ![Address Book App](./images/04-address-book-app.png)
 
 ---
